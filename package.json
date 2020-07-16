@@ -1,0 +1,19 @@
+{
+  "name": "@tencent/hippy-dymic-import-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.code.oa.com/melodyren/hippy-dymic-import-plugin.git"
+  },
+  "keywords": [],
+  "author": "melodyren <melodyren@tencent.com>",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.43.0"
+  }
+}
